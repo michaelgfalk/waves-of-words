@@ -1,6 +1,6 @@
 # Waves of Words: Tools for studying Australia's past
 
-A suite of functions for querying (Trove)[https://trove.nla.gov.au] and extracting useful results in R.
+A suite of functions for querying [Trove](https://trove.nla.gov.au) and extracting useful results in R.
 
 ## Usage
 
